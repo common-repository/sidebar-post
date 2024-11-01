@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SIDEBAR POST Plugin\n"
+"POT-Creation-Date: 2017-11-06 09:32-0500\n"
+"PO-Revision-Date: 2017-11-06 09:33-0500\n"
+"Last-Translator: Janvier M <janviersoft@gmail.com>\n"
+"Language-Team: CODIIV <janviersoft@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_i\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: nexusframework/nexus.php:9 sidebar_post.php:23
+#, fuzzy
+msgid "Sidebar Post"
+msgstr "Sidebar Post"
+
+#: nexusframework/nexus.php:10
+msgid "Advanced Settings"
+msgstr "Paramètres avancés"
+
+#: nexusframework/nexus.php:11
+msgid "Uninstall"
+msgstr "Désinstaller"
+
+#: nexusframework/nexus.php:12
+msgid "Documentation"
+msgstr "Documentation"
+
+#: nexusframework/nexus.php:37
+msgid "Sidebar Post - Main Settings"
+msgstr "Sidebar Post - Paramètres principaux"
+
+#: nexusframework/nexus.php:40
+msgid "Allow Posting"
+msgstr "Permettre la publication"
+
+#: nexusframework/nexus.php:43
+msgid "Everybody"
+msgstr "Tout le monde"
+
+#: nexusframework/nexus.php:44
+msgid "Only logged in"
+msgstr "Connectés seuls"
+
+#: nexusframework/nexus.php:45
+msgid "Do NOT allow"
+msgstr "Ne PAS permettre"
+
+#: nexusframework/nexus.php:50
+msgid "Require Email to post"
+msgstr "Requérir un email pour publier"
+
+#: nexusframework/nexus.php:52 nexusframework/nexus.php:138
+#: sidebar_post.php:381 sidebar_post.php:423
+msgid "Yes"
+msgstr "Oui"
+
+#: nexusframework/nexus.php:52 nexusframework/nexus.php:139
+#: sidebar_post.php:381 sidebar_post.php:423
+msgid "No"
+msgstr "Non"
+
+#: nexusframework/nexus.php:58
+msgid "Target Post type"
+msgstr "Type de poste de publication"
+
+#: nexusframework/nexus.php:79
+msgid "Target Taxonomy"
+msgstr "Taxonomie de publication"
+
+#: nexusframework/nexus.php:97
+msgid "Default Post Status"
+msgstr "Statut de publication par dfaut"
+
+#: nexusframework/nexus.php:100
+msgid "Draft"
+msgstr "Brouillon"
+
+#: nexusframework/nexus.php:101
+msgid "Publish"
+msgstr "Publish"
+
+#: nexusframework/nexus.php:108
+msgid "Default Post user"
+msgstr "Usager par défaut"
+
+#: nexusframework/nexus.php:123
+msgid "Posts from unregistred users will be assigned to this user"
+msgstr ""
+"Les articles publiés des usagers non nregistrés sont assignés à cet usager"
+
+#: nexusframework/nexus.php:127 sidebar_post.php:475
+msgid "Save Settings"
+msgstr "Sauvegarder les paramètres"
+
+#: sidebar_post.php:92
+msgid "Posting is disabled by the site admin"
+msgstr "Publication n`est pas autorisé par l`administrateur du site"
+
+#: sidebar_post.php:110 sidebar_post.php:172
+msgid "Your E-mail"
+msgstr "Votre Courriel"
+
+#: sidebar_post.php:115 sidebar_post.php:177 sidebar_post.php:222
+msgid "Your Post Title"
+msgstr "Titre de Votre article"
+
+#: sidebar_post.php:116 sidebar_post.php:178 sidebar_post.php:223
+msgid "Enter post title"
+msgstr "Ajouter le titre"
+
+#: sidebar_post.php:120 sidebar_post.php:182 sidebar_post.php:227
+msgid "Content of the post"
+msgstr "Contenu de l`article"
+
+#: sidebar_post.php:124 sidebar_post.php:186 sidebar_post.php:231
+msgid "Category"
+msgstr "Catégorie"
+
+#: sidebar_post.php:128 sidebar_post.php:130 sidebar_post.php:190
+#: sidebar_post.php:192 sidebar_post.php:235 sidebar_post.php:237
+msgid "Select a category"
+msgstr "Selectionnez une catégorie"
+
+#: sidebar_post.php:138 sidebar_post.php:200 sidebar_post.php:245
+msgid "Send for review"
+msgstr "Envoyer pour revue"
+
+#: sidebar_post.php:144
+msgid "Login"
+msgstr "Connection"
+
+#: sidebar_post.php:147
+msgid "Or"
+msgstr "Ou"
+
+#: sidebar_post.php:150
+msgid "Register"
+msgstr "Abonnement"
+
+#: sidebar_post.php:212
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: sidebar_post.php:217
+msgid "Your email"
+msgstr "Votre E-mail"
+
+#: sidebar_post.php:273
+msgid "Sidebar Post Widget"
+msgstr "Sidebar Post Widget"
+
+#: sidebar_post.php:292
+msgid "Widget Title"
+msgstr "Titre du Widget"
+
+#: sidebar_post.php:297
+msgid "Text:"
+msgstr "Texte:"
+
+#: sidebar_post.php:302 sidebar_post.php:306
+msgid "Posting Instructions:"
+msgstr "Instructions de publication:"
+
+#: sidebar_post.php:369
+msgid "Sidebar Post - Avanced Settings"
+msgstr "Sidebar Post - Paramètres avancés"
+
+#: sidebar_post.php:373
+msgid "Admin Notification email"
+msgstr "Email de notification Admin"
+
+#: sidebar_post.php:376
+msgid "The email address to be notified when posts are created"
+msgstr "L`adresse email à notifier quand une publication est faite"
+
+#: sidebar_post.php:379
+msgid "Send an email to the poster"
+msgstr "Envoyer un email à la personne qui publie"
+
+#: sidebar_post.php:387
+msgid "Advanced Login/Register"
+msgstr "Connection/Enregistrement avancés"
+
+#: sidebar_post.php:391
+msgid "Select One"
+msgstr "Choisir Une option"
+
+#: sidebar_post.php:401
+msgid "Interval between Posts"
+msgstr "Interval entre publication d&apos;articles"
+
+#: sidebar_post.php:418
+msgid "The amount of time between a user is allowed to post again, in minutes"
+msgstr "Le temps permis entre publication d&apos;articles, en minutes "
+
+#: sidebar_post.php:421
+msgid "Log user IP"
+msgstr "Sauvegarder l`addresse IP du posteur"
+
+#: sidebar_post.php:426
+msgid "Whether or not to log the user&apos;s IP ddress"
+msgstr "Si on doit garder l&apos;IP du posteur"
+
+#: sidebar_post.php:429
+msgid "Login Button Background"
+msgstr "Fond du Bouton de Connection"
+
+#: sidebar_post.php:433
+msgid "The background color of the Login button"
+msgstr "La couleur de fond du bouton de connection"
+
+#: sidebar_post.php:436
+msgid "Login Button Text Color"
+msgstr "Coleur de texte du bouton de connection"
+
+#: sidebar_post.php:440
+msgid "The text color of the Login button"
+msgstr "La couleur "
+
+#: sidebar_post.php:443
+msgid "Register Button Background"
+msgstr "Arrière font du bouton d&apos;abonnement"
+
+#: sidebar_post.php:447
+msgid "The background color of the Register button"
+msgstr "La couleur d`arrière fond du bouton enregistrement"
+
+#: sidebar_post.php:451
+msgid "Register Button Text Color"
+msgstr "Couleur de texte du bouton Abonnement"
+
+#: sidebar_post.php:455
+msgid "The text color of the Register button"
+msgstr "La couleur de texte du bouton Abonnement"
+
+#: sidebar_post.php:459
+msgid "OR separator Button Background"
+msgstr "Arrière fond du séparateur Ou "
+
+#: sidebar_post.php:463
+msgid "The background color of the Or button"
+msgstr "La couleur d`arrière fond du bouton separateur Ou"
+
+#: sidebar_post.php:467
+msgid "Or Button Text Color"
+msgstr "Couleur de texte du bouton Ou"
+
+#: sidebar_post.php:471
+msgid "The text color of the Or button"
+msgstr "La couleur du bouton Ou"
+
+#: sidebar_post.php:484
+msgid "Sidebar Post - Documentation"
+msgstr "Sidebar Post - Documentation"
+
+#: sidebar_post.php:487
+msgid "Introduction"
+msgstr "Introduction"
+
+#: sidebar_post.php:488
+msgid "We are thrilled that you installed our Plugin."
+msgstr "Nous sommes contents que vous ayez installé notre extension."
+
+#: sidebar_post.php:489
+msgid ""
+"We hope is meets your needs and boosts our website or blog to another user "
+"engagement level"
+msgstr ""
+"Nous espérons qu`elle rencontre les besoins de votre site ou blog à un autre "
+"niveau d`implication de l`usager"
+
+#: sidebar_post.php:490
+msgid ""
+"As you will see, this documentation is just in its infancy, but we will "
+"continue to improve upon it as we go."
+msgstr ""
+"Comme vous allez le remarquer sans doute, cette documentation est encore en "
+"phase enfantine, mais nous continuerons à l`améliorer en allant."
+
+#: sidebar_post.php:491
+msgid "You can also visit the plugin page if you have any question at "
+msgstr ""
+"Vous pouvez aussi  visiter l`extension dans notre forum si vous avez des "
+"questions à "
+
+#: sidebar_post.php:492
+msgid "Usage"
+msgstr "Usage"
+
+#: sidebar_post.php:493
+msgid ""
+"We made this plugin as simple to use as it could be, by making it into a "
+"widget, and also providing a shortcode you can use to insert in pages and "
+"posts on your website. "
+msgstr ""
+"Nous avons fait cette extension aussi simple que nous pourrions, en la "
+"faisant un widget, en vous donnant aussi   un  shortcode que vous pouvez "
+"insérer dans des pages ou articles sur votre site. "
+
+#: sidebar_post.php:494
+msgid ""
+"Simply go to the widget area, and add the <b>`Sidebar Post Widget`</b> "
+"whereyou want it to appear"
+msgstr ""
+"Allez simplement dans la section widgets, et ajouter <b>`Sidebar Post "
+"Widget`</b>où que vous voulez qu&apos;il apparaisse"
+
+#: sidebar_post.php:495
+msgid ""
+"Alternatively, you can insert the <b>[sidebarpost]</b> shortcode in a page "
+"or post"
+msgstr ""
+"En revanche, vous pouvez aussi insérer le shortcode <b>[sidebarpost]</b>dans "
+"une page ou un article"
+
+#: sidebar_post.php:504
+msgid "Sidebar Post - Uninstall"
+msgstr "Sidebar Post - Désinstallation"
+
+#: sidebar_post.php:509
+msgid ""
+"You are about to uninstall SideBar Post. This action is irreversible, and "
+"you will need to reactivate the plugin"
+msgstr ""
+"Vous etes sur point de désinstaller Sidebar Post. Cette action est "
+"irréversible et déactive l'éxtension"
+
+#: sidebar_post.php:514
+msgid "You really want to uninstall?"
+msgstr "Vous voulez vraiment désinstaller?"
+
+#: sidebar_post.php:514
+msgid "Finish the Uninstall"
+msgstr "Terminer la désinstallation"
+
+#: sidebar_post.php:567 sidebar_post.php:568
+msgid "Sidebar Poster"
+msgstr "Editeur en Chef"
+
+#: sidebar_post.php:591
+msgid ""
+"Thank you for submitting your post. It will be reviewed and once approved, "
+"published"
+msgstr ""
+"Merci de soumettre votre article. Il sera revu et publié par les "
+"administrateurs une fois apprové"
+
+#: sidebar_post.php:602
+msgid "New Post created on website"
+msgstr "Nouvel Article créé au site"
+
+#: sidebar_post.php:602
+msgid "<p>A New post created."
+msgstr "<p>Un nouvel article est créé."
+
+#: sidebar_post.php:602
+msgid "<p>Please moderate..."
+msgstr "<p>Priere de moderer"
+
+#: sidebar_post.php:607
+msgid ""
+"There was an error publishing the post. Please make sure all information is "
+"entered correctly"
+msgstr ""
+"IL y a eu une erreur lors de la publication. Rassurez-vous que l'information "
+"entrée est correcte"
+
+#: sidebar_post.php:630
+msgid "Setting Saved successfully"
+msgstr "Paramètres changés avec succès"
+
+#: sidebar_post.php:632
+msgid "There was an error"
+msgstr "Il y a eu une erreur"
+
+#~ msgid "Coming up in the next version"
+#~ msgstr "A venir dans la version prochaine"
+
+#~ msgid "Main Settings"
+#~ msgstr "Paramètres principaux"
+
+#~ msgid "Sidebar Post - Admin Main Settings"
+#~ msgstr "Sidebar Post - Paramètres principaux admin"
+
+#~ msgid "Some text"
+#~ msgstr "Quelque Texte"

@@ -1,0 +1,9 @@
+.toplevel_page_spost img {
+    width: 1.3rem !important;
+}
+#spostContainer{
+  font-size: 1.4rem;
+}
+#toplevel_page_spost .wp-menu-image img {
+    width: 1.25rem;
+}
